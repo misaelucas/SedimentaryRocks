@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#1e293b"/>
+  
+  <!-- Facts with improved design -->
+  <g transform="translate(50, 50)">
+    <!-- Fossils -->
+    <g>
+      <rect x="0" y="0" width="500" height="80" fill="#b45309" rx="10"/>
+      <path d="M20,20 L480,20 L480,60 L20,60 Z" fill="#d97706" opacity="0.3"/>
+      <text x="250" y="30" text-anchor="middle" fill="white" font-size="14" font-weight="bold">Fósseis</text>
+      <text x="250" y="50" text-anchor="middle" fill="white" font-size="12">Contêm praticamente todos os fósseis conhecidos</text>
+      <!-- Fossil icon -->
+      <path d="M50,40 Q70,20 90,40 Q70,60 50,40" fill="#f59e0b"/>
+    </g>
+    
+    <!-- Grand Canyon -->
+    <g>
+      <rect x="0" y="100" width="500" height="80" fill="#d97706" rx="10"/>
+      <path d="M20,120 L480,120 L480,160 L20,160 Z" fill="#f59e0b" opacity="0.3"/>
+      <text x="250" y="130" text-anchor="middle" fill="white" font-size="14" font-weight="bold">Grand Canyon</text>
+      <text x="250" y="150" text-anchor="middle" fill="white" font-size="12">Exposição de 2 bilhões de anos de história</text>
+      <!-- Canyon icon -->
+      <path d="M50,140 L70,120 L90,140 L70,160 Z" fill="#fbbf24"/>
+    </g>
+    
+    <!-- Porosity -->
+    <g>
+      <rect x="0" y="200" width="500" height="80" fill="#f59e0b" rx="10"/>
+      <path d="M20,220 L480,220 L480,260 L20,260 Z" fill="#fbbf24" opacity="0.3"/>
+      <text x="250" y="230" text-anchor="middle" fill="white" font-size="14" font-weight="bold">Porosidade</text>
+      <text x="250" y="250" text-anchor="middle" fill="white" font-size="12">Armazenamento de petróleo e gás natural</text>
+      <!-- Porous texture -->
+      <circle cx="50" cy="240" r="5" fill="#fbbf24"/>
+      <circle cx="70" cy="240" r="3" fill="#fbbf24"/>
+      <circle cx="90" cy="240" r="4" fill="#fbbf24"/>
+    </g>
+  </g>
+  
+  <!-- Decorative elements -->
+  <circle cx="300" cy="350" r="20" fill="#fbbf24" opacity="0.2"/>
+  <path d="M100,300 Q300,350 500,300" stroke="#fbbf24" stroke-width="2" fill="none" opacity="0.3"/>
+</svg> 
