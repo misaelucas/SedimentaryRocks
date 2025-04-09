@@ -1,12 +1,45 @@
-# React + Vite
+# Sedimentary Rocks Presentation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive slideshow about sedimentary rocks, featuring AI-generated images and smooth animations. Built with React, Tailwind CSS, and Framer Motion. Experimenting with Claude and Cursor for enhanced development.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Interactive Slides**: Navigate through slides with smooth transitions.
+- **AI-Generated Images**: Visuals created using AI for a unique presentation.
+- **Responsive Design**: Optimized for various screen sizes.
+- **Environment Variables**: Sensitive information managed through `.env`.
 
-## Expanding the ESLint configuration
+## Setup
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:misaelucas/SedimentaryRocks.git
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Create a `.env` file in the root directory:
+   ```
+   REACT_APP_STUDENT_NAME=Your Name
+   ```
+
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+
+## Usage
+
+- Use the arrow keys or buttons to navigate through the slides.
+- Customize the content and images as needed.
+
+## Contributions
+
+Feel free to fork the project and submit pull requests.
+
+## License
+
+This project is open-source and available under the MIT License.

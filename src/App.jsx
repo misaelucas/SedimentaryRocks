@@ -148,7 +148,7 @@ export default function App() {
             </h1>
             <div className="text-right">
               <p className="text-gray-300 text-sm md:text-base">
-                Discente: {process.env.REACT_APP_STUDENT_NAME}
+                Discente: {import.meta.env.VITE_STUDENT_NAME}
               </p>
               <p className="text-gray-400 text-xs md:text-sm">
                 Curso de Zootecnia
