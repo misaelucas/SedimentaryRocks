@@ -23,7 +23,7 @@ An interactive slideshow about sedimentary rocks, featuring AI-generated images 
 
 3. Create a `.env` file in the root directory:
    ```
-   REACT_APP_STUDENT_NAME=Your Name
+   VITE_STUDENT_NAME=Your Name
    ```
 
 4. Start the development server:
