@@ -9,7 +9,7 @@ const slides = [
     subtitle: "Introdução e Formação",
     content:
       "As rochas sedimentares são formadas pela acumulação de sedimentos que são compactados e cimentados. Representam cerca de 75% das rochas expostas na superfície terrestre.",
-    image: "/src/assets/slide1.png",
+    image: "/images/slide1.png",
     bgColor: "bg-amber-600",
   },
   {
@@ -18,7 +18,7 @@ const slides = [
     subtitle: "Como as rochas sedimentares são formadas",
     content:
       "1. Intemperismo: decomposição de rochas preexistentes\n2. Erosão: transporte dos sedimentos\n3. Deposição: acumulação de sedimentos\n4. Diagênese: compactação e cimentação",
-    image: "/src/assets/slide2.png",
+    image: "/images/slide2.png",
     bgColor: "bg-amber-600",
   },
   {
@@ -27,7 +27,7 @@ const slides = [
     subtitle: "Tipos de rochas sedimentares",
     content:
       "• Detríticas: formadas por fragmentos de outras rochas (arenito, conglomerado)\n• Químicas: formadas por precipitação química (calcário, gesso)\n• Orgânicas: formadas por restos de organismos (carvão)",
-    image: "/src/assets/slide3.png",
+    image: "/images/slide3.png",
     bgColor: "bg-amber-600",
   },
   {
@@ -36,7 +36,7 @@ const slides = [
     subtitle: "Rocha sedimentar detrítica",
     content:
       "O arenito é composto principalmente por grãos de areia cimentados. É uma das rochas sedimentares mais comuns e pode ser encontrado em diversas cores, dependendo dos minerais presentes.",
-    image: "/src/assets/slide4.png",
+    image: "/images/slide4.png",
     bgColor: "bg-amber-600",
   },
   {
@@ -45,7 +45,7 @@ const slides = [
     subtitle: "Rocha sedimentar química/orgânica",
     content:
       "O calcário é composto principalmente por carbonato de cálcio (CaCO₃). Pode ser formado por precipitação química ou pela acumulação de conchas e esqueletos de organismos marinhos.",
-    image: "/src/assets/slide5.png",
+    image: "/images/slide5.png",
     bgColor: "bg-amber-600",
   },
   {
@@ -54,7 +54,7 @@ const slides = [
     subtitle: "Usos das rochas sedimentares",
     content:
       "• Fonte de combustíveis fósseis (petróleo, gás natural, carvão)\n• Materiais de construção (arenito, calcário)\n• Formação de aquíferos\n• Fonte de minerais industriais (gipsita, sal-gema)",
-    image: "/src/assets/slide6.png",
+    image: "/images/slide6.png",
     bgColor: "bg-amber-600",
   },
   {
@@ -63,7 +63,7 @@ const slides = [
     subtitle: "Fatos interessantes",
     content:
       "• As rochas sedimentares contêm praticamente todos os fósseis conhecidos\n• O Grand Canyon expõe camadas de rochas sedimentares que contam 2 bilhões de anos da história da Terra\n• Algumas rochas sedimentares são porosas o suficiente para armazenar petróleo e gás natural",
-    image: "/src/assets/slide7.png",
+    image: "/images/slide7.png",
     bgColor: "bg-amber-600",
   },
   {
